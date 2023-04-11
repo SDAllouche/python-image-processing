@@ -1,5 +1,5 @@
 # python-image-processing
 
-##License
+## License
 
 [MIT License](LICENSE)
